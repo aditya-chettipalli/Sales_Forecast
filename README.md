@@ -7,7 +7,7 @@ In the dynamic landscape of e-commerce, understanding sales trends and predictin
 The core objective is to delve into the intricate factors influencing e-commerce sales, providing valuable insights for businesses to make proactive and informed decisions. By analyzing historical sales data and implementing innovative forecasting models, the project aims to offer a comprehensive roadmap for stakeholders navigating the e-commerce landscape.
 
 ## Dataset
-The dataset, obtained from Kaggle, encompasses the transactional activities of a UK-based online retail company over a period from 01/12/2010 to 09/12/2011. Key attributes include transaction date, invoice number, product description, quantity sold, unit price, customer ID, and country.
+The dataset, obtained from Kaggle (https://www.kaggle.com/datasets/carrie1/ecommerce-data), encompasses the transactional activities of a UK-based online retail company over a period from 01/12/2010 to 09/12/2011. Key attributes include transaction date, invoice number, product description, quantity sold, unit price, customer ID, and country.
 
 ## Methods
 ### Data Cleaning and Preprocessing
